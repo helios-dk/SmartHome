@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_appliance">AddApplianceActivity</string>
+    <string name="title_activity_setup_rooms">SetupRooms</string>
+    <string name="title_activity_scenes">Scenes</string>
+</resources>
